@@ -1,0 +1,8 @@
+https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mariadb-php-lamp-stack-on-debian-11
+
+
+apt install apache2 mariadb-server
+mysql_secure_installation
+apt install php libapache2-mod-php php-mysql phpmyadmin
+
+
